@@ -4,3 +4,4 @@ test git:删除
 test git:push
 test git:create a new branch
 test git:create a new branch with conflict
+test git:分支与master1冲突
