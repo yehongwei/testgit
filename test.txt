@@ -3,3 +3,4 @@ test git:又添加了一行cvsv
 test git:删除
 test git:push
 test git:create a new branch
+test git:create a new branch with conflict
