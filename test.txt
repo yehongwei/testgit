@@ -3,5 +3,5 @@ test git:又添加了一行cvsv
 test git:删除
 test git:push
 test git:create a new branch
-test git:create a new branch with conflict
+test git:create a new branch for conflict
 test git:分支与master冲突test（解决冲突1）
