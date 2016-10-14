@@ -7,3 +7,4 @@ test git:create a new branch for conflict
 test git:分支与master冲突test（解决冲突1）
 test git：测试stash
 test git:hello 更新了一次
+test git:hello 在叶红卫之前更新了一次，并提交了
