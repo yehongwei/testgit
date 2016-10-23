@@ -10,4 +10,6 @@ test git:hello 更新了一次
 test git:叶红卫更新了一次，在hello之后
 test git:在来一次，hello更新了一次在叶红卫之前test git:在来一次，叶红卫更新了一次在hello之后
 git复习
+test git:test fetch
+test:hello pull
 test git:叶红卫 test pull
