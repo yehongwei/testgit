@@ -1,4 +1,4 @@
-test git:添加一行文本
+﻿test git:添加一行文本
 test git:又添加了一行cvsv
 test git:删除
 test git:push
@@ -16,3 +16,4 @@ test git:叶红卫 test pull
 2016-11-02
 测试冲突：pull自动处理冲突
 测试分支开发dev
+换了一台电脑，测试上传
